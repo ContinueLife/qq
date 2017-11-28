@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body{
+	background-image:url(1.jpg);
+	background-size: 750px 808px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	color: #D5D6E2;
+	font-weight: 500;
+	font-size: 1.05em;
+	font-family: "Microsoft YaHei", "Segoe UI", "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+span.name{
+	position:absolute;
+	left:170px;
+	top:150px;
+	color:#fff;
+	font-size:57px;
+	}
+	
+
+span.word1{
+	position:absolute;
+	left:220px;
+	top:250px;
+	color:#fff;
+	font-size:35px;
+	}
+span.word2{
+	position:absolute;
+	left:220px;
+	top:320px;
+	color:#fff;
+	font-size:35px;
+	}
+span.word3{
+	position:absolute;
+	left:220px;
+	top:390px;
+	color:#fff;
+	font-size:35px;
+	}
+span.word4{
+	position:absolute;
+	left:220px;
+	top:460px;
+	color:#fff;
+	font-size:35px;
+	}
+span.word5{
+	position:absolute;
+	left:220px;
+	top:530px;
+	color:#fff;
+	font-size:35px;
+	}
+span.word6{
+	position:absolute;
+	left:220px;
+	top:600px;
+	color:#fff;
+	font-size:35px;
+	}
